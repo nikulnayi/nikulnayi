@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive insights an
 
 - 🎓 Recent graduate in Artificial Intelligence and Data Science from Loyalist College, Toronto
 - 🚀 Data-driven decision-maker with hands-on experience in machine learning and data analytics
-- 🌐 Skilled in full-stack web development using Laravel (PHP) and Python frameworks
+- 🌐 Skilled in full-stack web development using Laravel (PHP) frameworks
 - 💡 Constantly seeking opportunities to learn and grow in the ever-evolving tech world
 
 ## Skills
