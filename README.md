@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Nikul Nayi - Data Scientist
 
-Welcome to my GitHub! I'm passionate about leveraging data to derive insights and build innovative solutions. I love combining my skills in data science and full-stack development to create impactful projects. 
+Welcome to my GitHub! I'm passionate about leveraging data to derive insights and build innovative solutions. I love to create impactful projects. 
 
 ## About Me
 
