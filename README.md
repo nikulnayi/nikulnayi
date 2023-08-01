@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nikul Nayi - Data Scientist & Full Stack Developer
+# Hi there! 👋 I'm Nikul Nayi - Data Scientist
 
 Welcome to my GitHub! I'm passionate about leveraging data to derive insights and build innovative solutions. I love combining my skills in data science and full-stack development to create impactful projects. 
 
@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive insights an
 ## Skills
 
 - Machine Learning: Generative AI, NLP, TensorFlow, scikit-learn
-- Data Visualization: T Power BI, Matplotlib, Seaborn
+- Data Visualization: Power BI, Matplotlib, Seaborn
 - Database: SQL, DBMS/RDBMS
 - Cloud: AWS (EC2, S3, Lambda, SageMaker, Elastic Beanstalk), Azure
 - DevOps: CI/CD, Git, Docker
