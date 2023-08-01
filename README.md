@@ -1,57 +1,42 @@
-## Nikul Nayi | Data Scientist
+# Hi there! 👋 I'm Nikul Nayi - Data Scientist & Full Stack Developer
 
-Dynamic and results-driven Data Scientist with a strong educational background in Artificial Intelligence and Data Science. I am a recent graduate with hands-on experience in data analysis, machine learning, and project management. My skills include utilizing cutting-edge tools and technologies to derive actionable insights from complex datasets, full-stack development, and team leadership. 
+Welcome to my GitHub! I'm passionate about leveraging data to derive insights and build innovative solutions. I love combining my skills in data science and full-stack development to create impactful projects. 
 
-As a collaborative problem solver, I have a passion for data-driven decision-making and a commitment to continuous learning. My excellent communication skills enable me to effectively convey technical concepts to both technical and non-technical stakeholders, making me a valuable asset in any team.
+## About Me
 
-### Skills
-- Generative AI and Large Language Models (LangChain)
-- Natural Language Processing (NLP) techniques
-- Machine Learning algorithms
-- Data visualization using T Power BI
-- Python and R programming languages for data analysis and manipulation
-- SQL and DBMS/RDBMS for database management and querying
-- Continuous Integration/Continuous Deployment (CI/CD)
-- Version Control with Git
-- Deep Learning and Neural Network concepts using TensorFlow and scikit-learn
-- Computer Vision techniques for image analysis
-- AWS and Azure for cloud deployment (EC2, S3, Lambda, Sage maker, Elastic Beanstalk)
-- Docker for deployment and containerization
-- Laravel (PHP) for web development
+- 🎓 Recent graduate in Artificial Intelligence and Data Science from Loyalist College, Toronto
+- 🚀 Data-driven decision-maker with hands-on experience in machine learning and data analytics
+- 🌐 Skilled in full-stack web development using Laravel (PHP) and Python frameworks
+- 💡 Constantly seeking opportunities to learn and grow in the ever-evolving tech world
 
-### Experience
-**Data Science Project | January 2023 - April 2023**
-*Loyalist College in Toronto, Canada*
-- Developed a project for Tele-wire Analytics, a cell tower company, to detect and analyze the behavior of cell towers to identify unusual patterns and make necessary configuration changes using anomaly detection techniques.
-- Utilized data analytics techniques to monitor and interpret large datasets to identify anomalies in tower behavior and worked with the team to develop and implement effective solutions.
-- Successfully created a predictive model that identifies unusual tower behavior, enabling proactive maintenance and enhancing tower performance.
-- Gained hands-on experience in data analytics, problem-solving, and project management while collaborating with a team of professionals to achieve project goals.
+## Skills
 
-**Full Stack Developer and Team Leader | April 2018 - April 2021**
-*Dezilla Developers, India*
-- Led software development projects from planning to deployment and maintenance, ensuring adherence to best practices.
-- Managed a team of developers, providing technical guidance and mentorship.
-- Developed web-based systems using Laravel Framework for various industries, including vehicle renting, school management, hotel management, marriage bureau, and courier management.
-- Integrated payment gateways and implemented reporting functionality to optimize operations.
+- Machine Learning: Generative AI, NLP, TensorFlow, scikit-learn
+- Data Visualization: T Power BI, Matplotlib, Seaborn
+- Database: SQL, DBMS/RDBMS
+- Cloud: AWS (EC2, S3, Lambda, SageMaker, Elastic Beanstalk), Azure
+- DevOps: CI/CD, Git, Docker
 
-### Projects (GitHub: [github.com/nikulnayi](https://github.com/nikulnayi))
-**Student Performance End-to-End Project**
-- The student performance end-to-end project leverages machine learning techniques to predict student performance based on various factors. The project involves data collection, preprocessing, model training, evaluation, deployment on both AWS and Azure, and CI/CD pipeline implementation using Docker.
+## Featured Projects
 
-**German Traffic Sign Recognition Benchmark**
-- Developed a robust traffic sign detection and classification system using TensorFlow for the German Traffic Sign Recognition Benchmark. Achieved state-of-the-art performance in traffic sign recognition tasks.
+### [Student Performance End-to-End Project](https://github.com/nikulnayi/Student-Performance-Project)
+Predicting student performance using machine learning techniques, deployed on AWS and Azure with CI/CD pipeline.
 
-**MNIST Digit Recognition**
-- Implemented a deep learning model to recognize hand-drawn digits from the MNIST dataset. Achieved high accuracy in digit recognition, showcasing proficiency in deep learning and image classification tasks.
+### [German Traffic Sign Recognition Benchmark](https://github.com/nikulnayi/German-Traffic-Sign-Recognition)
+A deep learning-based traffic sign detection and classification system achieved state-of-the-art performance.
 
-**Stock Price Prediction**
-- Predicted stock prices using the Prophet model and created a Streamlit dashboard for displaying historical data and making predictions for the next working day.
+### [MNIST Digit Recognition](https://github.com/nikulnayi/MNIST-Digit-Recognition)
+Implemented a deep learning model to recognize hand-drawn digits with high accuracy.
 
-### Education
-- Two-year Ontario College Graduate Certificate in Artificial Intelligence and Data Science, Loyalist College in Toronto, Toronto | September 2021 - April 2023
-- Bachelor of Computer Applications, Veer Narmad South Gujarat University, India | August 2015 - March 2018
+### [Stock Price Prediction](https://github.com/nikulnayi/Stock-Price-Prediction)
+Predicting stock prices using the Prophet model, with a user-friendly Streamlit dashboard.
 
-Feel free to connect with me on [LinkedIn](linkedin.com/in/nikulnayi/) or reach out via email at inbox@nikulnayi.com or phone at +1 647-863-0436. I am open to collaboration and discussing exciting data science projects.
+## Let's Connect
 
-Looking forward to making valuable contributions to the data science community!
+- LinkedIn: [linkedin.com/in/nikulnayi](https://www.linkedin.com/in/nikulnayi/)
+- Website: [nikulnayi.com](https://www.nikulnayi.com)
+- Email: inbox@nikulnayi.com
+- Phone: +1 647-863-0436
+
+Feel free to explore my projects, collaborate, and get in touch with me. Let's build the future together!
 
