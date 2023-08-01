@@ -19,16 +19,19 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive insights an
 
 ## Featured Projects
 
-### [Student Performance End-to-End Project](https://github.com/nikulnayi/Student-Performance-Project)
+### [Telewire-Analytics](https://github.com/nikulnayi/Telewire-Analytics)
+Detecting unusual patterns in cell tower behavior to optimize configurations and enhance performance.
+
+### [Student Performance End-to-End Project](https://github.com/nikulnayi/Student-Performance-End-to-End-Project)
 Predicting student performance using machine learning techniques, deployed on AWS and Azure with CI/CD pipeline.
 
 ### [German Traffic Sign Recognition Benchmark](https://github.com/nikulnayi/German-Traffic-Sign-Recognition)
 A deep learning-based traffic sign detection and classification system achieved state-of-the-art performance.
 
-### [MNIST Digit Recognition](https://github.com/nikulnayi/MNIST-Digit-Recognition)
+### [MNIST Digit Recognition](https://github.com/nikulnayi/MNIST-Classification-using-Tensorflow)
 Implemented a deep learning model to recognize hand-drawn digits with high accuracy.
 
-### [Stock Price Prediction](https://github.com/nikulnayi/Stock-Price-Prediction)
+### [Stock Price Prediction](https://github.com/nikulnayi/Stock-Prediction-Dashboard)
 Predicting stock prices using the Prophet model, with a user-friendly Streamlit dashboard.
 
 ## Let's Connect
