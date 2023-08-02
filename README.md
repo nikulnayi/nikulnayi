@@ -19,11 +19,11 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive insights an
 
 ## Featured Projects
 
-### [Telewire-Analytics](https://github.com/nikulnayi/Telewire-Analytics)
-Detecting unusual patterns in cell tower behavior to optimize configurations and enhance performance.
-
 ### [Student Performance End-to-End Project](https://github.com/nikulnayi/Student-Performance-End-to-End-Project)
 Predicting student performance using machine learning techniques, deployed on AWS and Azure with CI/CD pipeline.
+
+### [Telewire-Analytics](https://github.com/nikulnayi/Telewire-Analytics)
+Detecting unusual patterns in cell tower behavior to optimize configurations and enhance performance.
 
 ### [German Traffic Sign Recognition Benchmark](https://github.com/nikulnayi/German-Traffic-Sign-Recognition)
 A deep learning-based traffic sign detection and classification system achieved state-of-the-art performance.
