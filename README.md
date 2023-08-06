@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nikul Nayi - Data Scientist
+# Hi there! <span style="animation: moveHi 2s infinite;">👋</span> I'm Nikul Nayi - Data Scientist
 
 Welcome to my GitHub! I'm passionate about leveraging data to derive insights and build innovative solutions. I love to create impactful projects. 
 
@@ -41,4 +41,31 @@ Predicting stock prices using the Prophet model, with a user-friendly Streamlit 
 - Email: inbox@nikulnayi.com
 
 Feel free to explore my projects, collaborate, and get in touch with me. Let's build the future together!
+
+<!-- Add CSS style for animation -->
+<style>
+  @keyframes moveHi {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+
+  body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+</style>
+
+
+
+
 
