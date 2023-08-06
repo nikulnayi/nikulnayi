@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive insights an
 - 🚀 Data-driven decision-maker with hands-on experience in machine learning and data analytics
 - 🌐 Skilled in full-stack web development using Laravel (PHP) frameworks
 - 💡 Constantly seeking opportunities to learn and grow in the ever-evolving tech world
-
+![Snake animation](https://github.com/nikulnayi/nikulnayi/blob/output/github-contribution-grid-snake.svg)
 
 ## Skills
 
