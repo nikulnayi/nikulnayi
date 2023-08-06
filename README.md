@@ -8,6 +8,7 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive insights an
 - 🚀 Data-driven decision-maker with hands-on experience in machine learning and data analytics
 - 🌐 Skilled in full-stack web development using Laravel (PHP) frameworks
 - 💡 Constantly seeking opportunities to learn and grow in the ever-evolving tech world
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikulnayi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 ## Skills
 
