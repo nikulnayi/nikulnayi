@@ -19,6 +19,7 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive insights an
 - DevOps: CI/CD, Git, Docker
 
 ## Featured Projects
+
 ### [Iris-Azure-MachineLearning-CICD](https://github.com/nikulnayi/Student-Performance-End-to-End-Project](https://github.com/nikulnayi/Iris-Azure-MachineLearning-CICD)
 CI/CD pipeline for Iris classification using Azure Machine Learning and GitHub Actions. Trains, registers, and deploys a logistic regression model to a managed online endpoint.
 
