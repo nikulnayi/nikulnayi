@@ -23,6 +23,10 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive insights an
 ### [Iris-Azure-MachineLearning-CICD](https://github.com/nikulnayi/Iris-Azure-MachineLearning-CICD)
 CI/CD pipeline for Iris classification using Azure Machine Learning and GitHub Actions. Trains, registers, and deploys a logistic regression model to a managed online endpoint.
 
+### [RAG-Knowledge-Assistant](https://github.com/nikulnayi/RAG-Knowledge-Assistant)
+A smart document Q&A system powered by Retrieval-Augmented Generation (RAG)
+
+
 ### [Student Performance End-to-End Project](https://github.com/nikulnayi/Student-Performance-End-to-End-Project)
 Predicting student performance using machine learning techniques, deployed on AWS and Azure with CI/CD pipeline.
 
