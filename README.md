@@ -44,7 +44,6 @@ Predicting stock prices using the Prophet model, with a user-friendly Streamlit 
 
 ## Let's Connect
 
-- Website: [nikulnayi.com](https://www.nikulnayi.com)
 - Email: inbox@nikulnayi.com
 
 Feel free to explore my projects, collaborate, and get in touch with me. Let's build the future together!
