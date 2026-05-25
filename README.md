@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive insights an
 
 ## About Me
 
-- 🎓 Recent graduate in Artificial Intelligence and Data Science from Loyalist College, Toronto
+- 🎓 Graduate in Artificial Intelligence and Data Science from Loyalist College, Toronto
 - 🚀 Data-driven decision-maker with hands-on experience in machine learning and data analytics
 - 🌐 Skilled in full-stack web development using Laravel (PHP) frameworks
 - 💡 Constantly seeking opportunities to learn and grow in the ever-evolving tech world
@@ -20,27 +20,16 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive insights an
 
 ## Featured Projects
 
-### [Iris-Azure-MachineLearning-CICD](https://github.com/nikulnayi/Iris-Azure-MachineLearning-CICD)
-CI/CD pipeline for Iris classification using Azure Machine Learning and GitHub Actions. Trains, registers, and deploys a logistic regression model to a managed online endpoint.
 
 ### [RAG-Knowledge-Assistant](https://github.com/nikulnayi/RAG-Knowledge-Assistant)
 A smart document Q&A system powered by Retrieval-Augmented Generation (RAG)
 
 
-### [Student Performance End-to-End Project](https://github.com/nikulnayi/Student-Performance-End-to-End-Project)
-Predicting student performance using machine learning techniques, deployed on AWS and Azure with CI/CD pipeline.
-
 ### [Telewire-Analytics](https://github.com/nikulnayi/Telewire-Analytics)
 Detecting unusual patterns in cell tower behavior to optimize configurations and enhance performance.
 
-### [German Traffic Sign Recognition Benchmark](https://github.com/nikulnayi/German-Traffic-Sign-Recognition)
-A deep learning-based traffic sign detection and classification system achieved state-of-the-art performance.
-
-### [MNIST Digit Recognition](https://github.com/nikulnayi/MNIST-Classification-using-Tensorflow)
-Implemented a deep learning model to recognize hand-drawn digits with high accuracy.
-
-### [Stock Price Prediction](https://github.com/nikulnayi/Stock-Prediction-Dashboard)
-Predicting stock prices using the Prophet model, with a user-friendly Streamlit dashboard.
+### [Iris-Azure-MachineLearning-CICD](https://github.com/nikulnayi/Iris-Azure-MachineLearning-CICD)
+CI/CD pipeline for Iris classification using Azure Machine Learning and GitHub Actions. Trains, registers, and deploys a logistic regression model to a managed online endpoint.
 
 ## Let's Connect
 
